@@ -1,0 +1,26 @@
+17:34:23.752 [main] INFO  testCases.TC01LoginTest - ***********Starting TC01************
+17:35:31.205 [main] INFO  testCases.TC01LoginTest - ***********Starting TC01************
+17:35:31.892 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Search************
+17:35:36.478 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Sign in************
+17:44:58.856 [main] INFO  testCases.TC01LoginTest - ***********Starting TC01************
+17:44:59.744 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Search************
+17:45:04.265 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Sign in************
+17:52:39.973 [main] INFO  testCases.TC01LoginTest - ***********Starting TC01************
+17:52:41.008 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Search************
+17:52:45.743 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Sign in************
+17:54:25.704 [main] INFO  testCases.TC01LoginTest - ***********Starting TC01************
+17:54:26.503 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Search************
+17:54:32.416 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Sign in************
+17:54:32.416 [main] DEBUG testCases.TC01LoginTest - Debug Logs
+18:16:15.292 [main] INFO  testCases.TC01LoginTest - ***********Starting TC01************
+18:16:16.182 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Search************
+18:16:20.648 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Sign in************
+18:16:20.648 [main] DEBUG testCases.TC01LoginTest - Debug Logs
+09:08:40.022 [main] INFO  testCases.TC01LoginTest - ***********Starting TC01************
+09:08:44.476 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Search************
+09:08:45.562 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Sign in************
+09:08:45.563 [main] DEBUG testCases.TC01LoginTest - Debug Logs
+09:55:03.869 [main] INFO  testCases.TC01LoginTest - ***********Starting TC01************
+09:55:04.599 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Search************
+09:55:09.208 [main] INFO  testCases.TC01LoginTest - ***********Clicked on Sign in************
+09:55:09.208 [main] DEBUG testCases.TC01LoginTest - Debug Logs
